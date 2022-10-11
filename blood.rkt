@@ -9,6 +9,8 @@
 ;; ***************************************************
 ;;
 
+;; Note: the tests verify that under every possible condition the functions work properly -> tests for a) and b) are essentially identical
+
 ;;
 ;; Problem a)
 ;;
