@@ -1,13 +1,6 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname blood) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor mixed-fraction #f #t none #f () #t)))
-;;
-;; ***************************************************
-;; Julien Liang (21006564)
-;; CS 135 Fall 2022
-;; Assignment 02, Problem 4
-;; ***************************************************
-;;
 
 ;; Note: the tests verify that under every possible condition the functions work properly -> tests for a) and b) are essentially identical
 
