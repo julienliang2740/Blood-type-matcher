@@ -5,7 +5,7 @@
 ;; Note: the tests verify that under every possible condition the functions work properly -> tests for a) and b) are essentially identical
 
 ;;
-;; Problem a)
+;; a)
 ;;
 
 ;; (can-donate-to/cond? donor-type recipient-type)
@@ -112,7 +112,7 @@
 (check-expect (can-donate-to/cond? 'AB+ 'AB+) true)
 
 ;;
-;; Problem b)
+;; b)
 ;;
 
 ;; (can-donate-to/bool? donor-type recipient-type)
